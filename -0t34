@@ -1,0 +1,65 @@
+[33mcommit dfdbffe4b9dbcbd593032dc8f9f9dc599b0dacbf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: V.V.Kravchenko <kravczek@gmail.com>
+Date:   Fri Feb 26 12:26:24 2021 +0200
+
+    last commit
+
+[33mcommit b2988762b57876a083c2c625772c1a7c9c17795a[m
+Author: V.V.Kravchenko <kravczek@gmail.com>
+Date:   Fri Feb 26 10:38:07 2021 +0200
+
+    final video 5
+
+[33mcommit 05ad340449764a8fafb1b76bb9f65478c18734ce[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: V.V.Kravchenko <kravczek@gmail.com>
+Date:   Thu Feb 25 22:35:47 2021 +0200
+
+    add information to the fields succeful
+
+[33mcommit 0617f1f7e3af18e373c79ca0ed36889f93adb491[m
+Author: V.V.Kravchenko <kravczek@gmail.com>
+Date:   Thu Feb 25 11:53:45 2021 +0200
+
+    modified app/Providers/AppServiceProvider.php 25.02.21
+
+[33mcommit 798a7273ca8d9fc5b679fb59771cdbdaeeb40111[m
+Author: V.V.Kravchenko <kravczek@gmail.com>
+Date:   Thu Feb 25 11:51:31 2021 +0200
+
+    modified:
+
+[33mcommit 2e8c4f5ce051fcf24734aae389e96fe66dedba37[m
+Author: V.V.Kravchenko <kravczek@gmail.com>
+Date:   Thu Feb 25 10:06:05 2021 +0200
+
+    Bad lara_db email correct
+
+[33mcommit 31c64f5f8c44245f0bba1bf2f4089495fec3aab7[m
+Author: V.V.Kravchenko <kravczek@gmail.com>
+Date:   Thu Feb 25 09:47:44 2021 +0200
+
+    Bad lara_db
+
+[33mcommit d459af6f20257a84eded69ba5f315c23d61ce2f9[m
+Author: V.V.Kravchenko <kravczek@gmail.com>
+Date:   Thu Feb 25 08:32:42 2021 +0200
+
+    Bad project laravel_db
+
+[33mcommit fdbc51c03a2d5c3482e05a33c7c7eaa0a83a649a[m
+Author: V.V.Kravchenko <kravczek@gmail.com>
+Date:   Sun Feb 21 21:38:40 2021 +0200
+
+    final video 3
+
+[33mcommit 67393861845a574fbd5ae4090381f30f9977a6d1[m
+Author: V.V.Kravchenko <kravczek@gmail.com>
+Date:   Sun Feb 21 16:53:56 2021 +0200
+
+    Second commit Okey
+
+[33mcommit cde3d9268aedd637e4d3920179a48e55f6d1d32a[m
+Author: V.V.Kravchenko <kravczek@gmail.com>
+Date:   Fri Feb 19 10:56:46 2021 +0200
+
+    First commit laravel
